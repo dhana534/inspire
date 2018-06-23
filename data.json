@@ -1,0 +1,24 @@
+{
+  "basics":{
+    "name":"Dhana Lakshmi",
+    "email":"ksailaja534@gmail.com",
+    "mobile":"+91-9876543210"
+  },
+  "education":[
+    {
+      "degree":"B-Tech",
+      "institute":"PSCMR",
+      "data":["2015-19","70%"]
+    },
+    {
+    "degree":"Intermediate",
+    "institute":"N.R.I",
+    "data":["2013-15","80%"]
+  },
+  {
+  "degree":"S.S.C",
+  "institute":"A.K.T.P.M.C.High School",
+  "data":["2012-13","80%"]
+}
+]
+}
