@@ -4,21 +4,50 @@
     "email":"ksailaja534@gmail.com",
     "mobile":"+91-9876543210"
   },
-  "education":[
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "educations":[
     {
       "degree":"B-Tech",
       "institute":"PSCMR",
       "data":["2015-19","70%"]
     },
     {
-    "degree":"Intermediate",
-    "institute":"N.R.I",
+    "degree":"Intermediate/Diploma",
+      "institute":"N.R.I",
     "data":["2013-15","80%"]
   },
   {
   "degree":"S.S.C",
   "institute":"A.K.T.P.M.C.High School",
   "data":["2012-13","80%"]
+}
+],
+"achivements":[
+  {
+    "name":"Awarded as <b>1<sup>st</sup>Prized</b> in <q> self-Defence</q>"
+  },
+  {
+    "name":"Got <strong>1<sup>st</sup>Prize</strong> for <q> PPT Presentation </q>"
+  }
+],
+"skills":[
+  {
+    "name":"Programming Languages",
+    "data":["C","Java","Python","Php","C++"]
+  },
+  {
+    "name":"DataBases",
+    "data":["MySql","oracle"]
+  },
+  {
+    "name":"Web Technologies",
+    "data":["HTML","CSS","JavaScript"]
+  },
+{
+  "name":"Libraries",
+  "data":["jQuery","CodeIgniter"]
 }
 ]
 }
